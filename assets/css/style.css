@@ -1,0 +1,63 @@
+header{
+  height: 37em;
+  width: 100%;
+  
+}
+
+img{
+  filter: grayscale(100%);
+  width: 100%;
+  margin-top: -2%;
+  position:absolute;
+  top: 26%;
+  clip: rect(7em 91em 39em 0em);
+}
+
+header .titulo{
+  margin-top: -2%;
+}
+
+hr{
+  margin-top: 11%;
+  height: 20px;
+  border: none;
+}
+
+/*estilos sección about*/
+.about{
+  background-color: #abe188;
+  height: 37em;
+  margin-top: -0.6%;
+}
+
+.txt-about{
+  margin-top: 5%;
+  color: #fff;
+  text-align: center;
+}
+
+.txt-about h4{
+  font-weight: bold;
+}
+
+.hr2{
+  margin-top: -2%;
+}
+
+/*imagen 2*/
+.imagen2{
+  height: 37em;
+}
+
+.imagen2 img{
+  filter: grayscale(100%);
+  width: 100%;
+  margin-top: 84%;
+  position:absolute;
+  top: 26%;
+  clip: rect(7em 91em 39em 0em);
+}
+
+.hr3{
+  margin-top: -7%;
+}
