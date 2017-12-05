@@ -7,7 +7,7 @@ header{
 img{
   filter: grayscale(100%);
   width: 100%;
-  margin-top: -2%;
+  margin-top: -6.6%;
   position:absolute;
   top: 26%;
   clip: rect(7em 91em 39em 0em);
@@ -18,7 +18,7 @@ header .titulo{
 }
 
 hr{
-  margin-top: 11%;
+  margin-top: 10%;
   height: 20px;
   border: none;
 }
@@ -27,7 +27,7 @@ hr{
 .about{
   background-color: #abe188;
   height: 37em;
-  margin-top: -0.6%;
+  margin-top: -0.7%;
 }
 
 .txt-about{
@@ -52,7 +52,7 @@ hr{
 .imagen2 img{
   filter: grayscale(100%);
   width: 100%;
-  margin-top: 84%;
+  margin-top: 75.4%;
   position:absolute;
   top: 26%;
   clip: rect(7em 91em 39em 0em);
@@ -61,3 +61,4 @@ hr{
 .hr3{
   margin-top: -7%;
 }
+
